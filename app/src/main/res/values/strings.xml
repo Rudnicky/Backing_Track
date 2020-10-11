@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Backing Track</string>
+    <string name="create_new_button">Create New</string>
+    <string name="backing_tracks_button">Backing Tracks</string>
+    <string name="close_application_button">Close Application</string>
+    <string name="main_logo_imageview">Logo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
